@@ -9,7 +9,7 @@ Lihat prototype interaktif di Figma:
 
 ## 🖼️ Preview
 
-![Preview halaman Artikel dan Beranda](yuhu.png)
+![Preview halaman Artikel dan Beranda](preview.png)
 
 ## 📄 Halaman yang Sudah Dibuat
 
