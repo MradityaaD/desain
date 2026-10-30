@@ -5,7 +5,7 @@ Repositori ini berisi desain **wireframe** untuk **PlengeRoSmart**, sebuah platf
 ## 🔗 Prototype
 
 Lihat prototype interaktif di Figma:
-[PlengeRoSmart — Figma Prototype](https://www.figma.com/proto/aweYlXcxXzC7zU4svhwF2i/wiframe-radit-kapin?node-id=15-2&t=Z3aJHksNHKjcMpGm-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+[PlengeToSmart — Figma Prototype](https://www.figma.com/proto/aweYlXcxXzC7zU4svhwF2i/wiframe-radit-kapin?node-id=15-2&t=Z3aJHksNHKjcMpGm-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ## 🖼️ Preview
 
