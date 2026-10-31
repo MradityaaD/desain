@@ -58,3 +58,6 @@ Navbar konsisten di semua halaman:
 - Ini masih berupa **wireframe** (low-fidelity), jadi fokusnya di struktur dan tata letak, belum final dari sisi warna, tipografi, dan visual.
 - Konten dan gambar yang dipakai bersifat placeholder untuk kebutuhan desain.
 
+  ## 👨‍💻 Pembuat
+
+**Muhammad Raditya Duta Pratama** — Kelas X PPLG 1
